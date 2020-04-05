@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace RezaG\form_by_jojoe;
+namespace xpilow\form_by_jojoe;
 
 class CustomForm extends Form {
 
