@@ -1,7 +1,7 @@
 name: iFriend
 author: xpilow
 version: 1.1.0
-api: 3.0.0, 4.0.0
+api: [3.0.0, 4.0.0]
 main: xpilow\friends
 commands:
   frend:
